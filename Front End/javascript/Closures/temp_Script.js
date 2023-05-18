@@ -34,7 +34,7 @@ function person(name)
   
   setTimeout(()=>console.log(this), 1000)
 }
-var obj=new person("parikshit") */
+var obj=new person("Tyrese") */
 
 /* console.log(
     

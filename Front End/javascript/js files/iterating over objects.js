@@ -1,5 +1,5 @@
 var obj={
-    name:"parikshit",
+    name:"Tyrese",
     rollNo:146,
     age:21
 };

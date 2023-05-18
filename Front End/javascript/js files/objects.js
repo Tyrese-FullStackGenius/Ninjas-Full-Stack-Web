@@ -14,5 +14,5 @@ console.log(student.marks);
  var obj={};
  //or
  var obj=new Object();
- obj={name:"parikshit", surname:"singh", age:21};
+ obj={name:"Tyrese", surname:"Song", age:21};
  console.log(obj["name"], obj.surname);

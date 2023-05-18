@@ -1,5 +1,5 @@
 var student={
-    "name":"parikshit",
+    "name":"Tyrese",
     rollNo:135,
     marks:90,
     "2":"two"

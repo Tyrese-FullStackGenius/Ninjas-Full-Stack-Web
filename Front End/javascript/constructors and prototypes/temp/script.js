@@ -12,8 +12,8 @@ console.log(student1); */
     this.age=age;
     this.marks=marks;
 }
-var student1=new createStudent("parikshit", 20, 30);
-var student2=new createStudent("singh", 25, 33);
+var student1=new createStudent("Tyrese", 20, 30);
+var student2=new createStudent("Song", 25, 33);
 console.log(student1, student2); */
 
 /* function Vehicle(number_of_wheels, color)

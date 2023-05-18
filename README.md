@@ -19,7 +19,7 @@ To get started, you'll need to have a basic understanding of web development con
 
 1. Clone the repository to your local machine
     ```
-    git clone https://github.com/parikshit223933/Coding-Ninjas-Full-Stack-Web-Development.git
+    git clone https://github.com/TyreseSong/Ninjas-Full-Stack-Web
     ```
 2. Navigate to the appropriate module. Each module contains a set of notes and exercises that will help you learn the material.
 

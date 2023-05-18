@@ -11,7 +11,7 @@
   "keywords": [
     "social"
   ],
-  "author": "CodingNinjas",
+  "author": "Tyrese Song",
   "license": "ISC",
   "dependencies": {
     "connect-flash": "^0.1.1",
